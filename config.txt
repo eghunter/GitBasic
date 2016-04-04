@@ -1,0 +1,3 @@
+Nguyen Cao Tai learn git basic.
+
+Tracking the staged state and unstaged state
